@@ -25,4 +25,4 @@ Classes:
 	-Player: Managing features for each player.
 	-Stats: Managing statistics for each player in each game and saving league data for database.
 	
-UML Diagram is attached to this folder ("UMLDiagram.png")*
+UML Diagram is attached to this folder. ("UMLDiagram.png")
