@@ -1,3 +1,5 @@
+# blackjack-league
+
 Program capabilities:
 
 	- Activation of the 7 player blackjack league + dealer.
